@@ -50,7 +50,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     background: #0e0b0e;
 }
 .emojiPicker-3PwZFl{
-    background-color: var(--background-emojiPicker)
+    background-color: var(--background-emojiPicker);
 }
 .wrapper-3WhCwL {
     border-radius: 5px;
