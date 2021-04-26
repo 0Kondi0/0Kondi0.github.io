@@ -1,6 +1,7 @@
 /* Extra Variables */
 .theme-dark {
     --background-secondary: transparent;
+    --background-emojiPicker: #1b1b1b;
     --background-primary: transparent;
     --background-floating: #1f1f1f;
     /*////*/
@@ -47,6 +48,9 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 .video-1FfuMD,
 .themeDark-3Ap_7i {
     background: #0e0b0e;
+}
+.emojiPicker-3PwZFl{
+    background-color: var(--background-emojiPicker)
 }
 .wrapper-3WhCwL {
     border-radius: 5px;
