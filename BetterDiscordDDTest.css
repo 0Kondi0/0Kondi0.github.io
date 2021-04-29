@@ -1725,6 +1725,9 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 .wrapper-1-Fsb8{
     background-color: var(--background-emojiPicker);
 }
+.container-enaOkj{
+    background-color: var(--background-emojiPicker)
+}
 .theme-dark .da-app+.da-container{
     background-color: #1a1a1a;
 }
