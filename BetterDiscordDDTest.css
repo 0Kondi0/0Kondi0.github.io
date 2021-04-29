@@ -1723,7 +1723,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     background: #1e1e1e;
 }
 .wrapper-1-Fsb8{
-    background: var(--background-emojiPicker);
+    background-color: var(--background-emojiPicker);
 }
 .theme-dark .da-app+.da-container{
     background-color: #1a1a1a;
