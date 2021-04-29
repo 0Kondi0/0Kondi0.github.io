@@ -1722,6 +1722,9 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 .theme-dark .messagesPopoutWrap-1MQ1bW {
     background: #1e1e1e;
 }
+.wrapper-1-Fsb8{
+    background: var(--background-emojiPicker);
+}
 .theme-dark .da-app+.da-container{
     background-color: #1a1a1a;
 }
