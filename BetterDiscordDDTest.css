@@ -1722,10 +1722,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 .theme-dark .messagesPopoutWrap-1MQ1bW {
     background: #1e1e1e;
 }
-.wrapper-1-Fsb8{
-    background-color: var(--background-emojiPicker);
-}
-.container-enaOkj{
+.wrapper-1-Fsb8 .container-enaOkj{
     background-color: var(--background-emojiPicker);
 }
 .theme-dark .da-app+.da-container{
